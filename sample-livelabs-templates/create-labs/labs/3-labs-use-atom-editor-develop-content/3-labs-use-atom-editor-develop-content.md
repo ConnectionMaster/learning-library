@@ -1,4 +1,4 @@
-# Use Atom Editor to Develop Markdown Content
+# Use A Text Editor to Develop Markdown Content
 
 ## Introduction
 
@@ -15,7 +15,7 @@ You can use your preferred editor to author and edit your Markdown (.md) content
 
 
 ### What Do You Need?
-* An IDE, such as Atom.
+* An IDE, such as Atom or Visual Studio Code.
 * A local web server such as **atom-live-server**, a plugin for `Atom.io`.
 
 ## **STEP 1:** Install Atom
@@ -115,7 +115,7 @@ To create your lab and workshop content:
 
 * Click [here](https://confluence.oraclecorp.com/confluence/display/DCS/Quick+Tour+of+Markdown+Syntax) for a quick tour that demonstrates commonly used Markdown syntax and their HTML equivalents.
 
-* Click [here](https://confluence.oraclecorp.com/confluence/display/DBIDDP/LiveLabs+Markdown+Template+Features) for a deeper dive into more robust Markdown Template features.
+* Click [here](https://confluence.oraclecorp.com/confluence/display/DBIDDP/LiveLabs+Markdown+Template+What%27s+New) for a deeper dive into more robust Markdown Template features.
 
 ## **STEP 5:** Preview Your Workshop and Labs Using atom-live-server
 
@@ -138,7 +138,7 @@ You may now [proceed to the next lab](#next).
 ## Want to Learn More?
 [Basic Writing and Formatting Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-[LiveLabs Markdown Template Features](https://confluence.oraclecorp.com/confluence/display/DBIDDP/LiveLabs+Markdown+Template+Features)
+[LiveLabs Markdown Template Features](https://confluence.oraclecorp.com/confluence/display/DBIDDP/LiveLabs+Markdown+Template+What%27s+New)
 
 [LiveLabs Sample Workshop](https://oracle.github.io/learning-library/sample-livelabs-templates/sample-workshop/workshops/freetier)
 
