@@ -25,22 +25,18 @@ Before deactivating a notebook session, save all your work to the attached block
 
 1. [Login to the OCI Console](https://www.oracle.com/cloud/sign-in.html).
 1. Open the navigation menu.
-
-1. Click the **Navigation Menu** in the upper left, navigate to **Analytics & AI**, and select **Data Science**
-
-	![](https://raw.githubusercontent.com/oracle/learning-library/master/common/images/console/analytics-ml-datascience.png " ")
-
+1. Under **Data and AI** and click **Data Science**. This will open the **Projects** page.
 1. Select the compartment for the project.
 1. Click the name of the project to contain the notebook session to open the Projects page.
-    ![](./../speed-up-ds-with-the-ads-sdk/images/select-project.png)
+    ![Select a project](./../common/images/select-project.png)
 1. Click the name of the notebook session to open the Notebook Session page.
-    ![](./../speed-up-ds-with-the-ads-sdk/images/click-ns.png)
+    ![Click notebook session](./../common/images/click-notebook-session.png)
 1. Click **Deactivate**.
-    ![](./../speed-up-ds-with-the-ads-sdk/images/deactivate.png)
+    ![Deactivate button](./../common/images/deactivate-notebook-session.png)
 
 1. Click **Deactivate** to confirm the deactivation. The status changes to **Updating** and then **Inactive**.
 
-    ![](./../speed-up-ds-with-the-ads-sdk/images/deactivate2.png)
+    ![Click deactivate](./../common/images/deactivate-notebook-session-confirmation.png)
 
 ## Terminating Notebook Sessions
 
@@ -48,25 +44,23 @@ To keep the file changes in a notebook session’s boot volume and attached bloc
 
 1. [Login to the OCI Console](https://www.oracle.com/cloud/sign-in.html).
 1. Open the navigation menu.
-1. Under **Data and AI**, select **Data Science**, and then click **Projects**.
-    ![](./../speed-up-ds-with-the-ads-sdk/images/select-projects.png)
-
+1. Under **Data and AI** and select **Data Science**. This will open the **Projects** page.
 1. Select the compartment for the project.
 1. Click the name of the project to contain the notebook session and open the Projects page.
-    ![](./../speed-up-ds-with-the-ads-sdk/images/select-project.png)
+    ![Select a project](./../common/images/select-project.png)
 
 1. Click the name of the notebook session and open the Notebook Session page.
-    ![](./../speed-up-ds-with-the-ads-sdk/images/click-ns.png)
+    ![Click on Notebook Session](./../common/images/click-notebook-session.png)
 
 1. Click **Terminate**.
-    ![](./../speed-up-ds-with-the-ads-sdk/images/terminate.png)
+    ![Terminate button](./../common/images/terminate-notebook-session.png)
 
 1. Click **Terminate** to confirm the termination. The status changes to **Deleting** and then **Deleted**.
 
-    ![](./../speed-up-ds-with-the-ads-sdk/images/terminate2.png)
+    ![Click terminate](./../common/images/terminate-notebook-session-confirmation.png)
 
 ## Acknowledgements
 
 * **Author**: [John Peach](https://www.linkedin.com/in/jpeach/), Principal Data Scientist
 * **Last Updated By/Date**:
-    * [Jean-Rene Gauthier](https://www.linkedin.com/in/jr-gauthier/), Sr. Principal Product Data Scientist, January 2021
+    * [John Peach](https://www.linkedin.com/in/jpeach/), Principal Data Scientist, April 2022
