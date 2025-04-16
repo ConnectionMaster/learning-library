@@ -1,7 +1,5 @@
 module github.com/errata-ai/vale/v2
 
-go 1.16
-
 require (
 	github.com/dlclark/regexp2 v1.4.0
 	github.com/errata-ai/ini v1.63.0
@@ -17,7 +15,7 @@ require (
 	github.com/schollz/closestmatch v2.1.0+incompatible
 	github.com/spf13/cast v1.3.1
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673
-	github.com/yuin/goldmark v1.3.2
-	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
+	github.com/yuin/goldmark v1.4.13
+	golang.org/x/net v0.38.0
 	gopkg.in/yaml.v2 v2.4.0
 )
