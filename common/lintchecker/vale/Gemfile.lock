@@ -33,7 +33,7 @@ GEM
       rspec-support (~> 3.9.0)
     rspec-support (3.9.2)
     specific_install (0.3.3)
-    thor (1.0.1)
+    thor (1.4.0)
 
 PLATFORMS
   ruby
